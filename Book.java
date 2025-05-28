@@ -9,7 +9,7 @@ public class Book extends LibraryItem {
         this.isBestSeller = isBestSeller;
     }
     
-    // Getters and Setters for isBestSeller...
+    // Getters and Setters for isBestSeller....
 
     public boolean isBestSeller() {
         return isBestSeller;
